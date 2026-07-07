@@ -19,6 +19,8 @@ Cenário: **25 usuários virtuais · ramp-up 10s · 2 loops · 350 amostras**
 | Erro global | 0,57% |
 | Erro no fluxo "Alteração de Endereço" | **4,00% (HTTP 503)** ⚠️ |
 
+🔗 **[Dashboard HTML ao vivo (GitHub Pages)](https://roseleyne.github.io/api-performance-testing-jmeter/)** — APDEX, gráficos de tempo de resposta, throughput e erros.
+
 **Veredicto: aprovado com ressalva** — desempenho global dentro do SLA, porém o defeito intermitente HTTP 503 foi reproduzido sob carga. Ver [Bug Report](docs/bug-report.md).
 
 ## 📁 Estrutura do repositório
