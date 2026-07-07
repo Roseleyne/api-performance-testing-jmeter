@@ -1,4 +1,4 @@
-# JMeter Performance Test - Fluxo SIMIGRA
+# JMeter Performance Test - an Immigration Services REST API
 
 Este repositório documenta um teste de performance executado com Apache JMeter em um fluxo de serviços HTTP, utilizando dados fictícios e sem exposição de informações sensíveis.
 
