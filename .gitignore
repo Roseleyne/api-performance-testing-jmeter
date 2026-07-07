@@ -1,0 +1,16 @@
+# JMeter raw outputs
+*.jtl
+*.log
+*.hprof
+
+# Generated reports
+/dashboard/
+/reports/
+
+# Sensitive or local files
+*.har
+*.csv
+!.gitkeep
+.env
+*.pem
+*.key

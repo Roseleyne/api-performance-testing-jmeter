@@ -1,0 +1,10 @@
+label,samples,average_ms,min_ms,max_ms,std_dev,error_percent,throughput
+Registro,10,3391,2178,3799,566.13,0.00,10.4/min
+Alteracao de Prazo,10,2458,1732,3989,819.77,0.00,10.1/min
+Autorizacao de Residencia,10,3009,1982,6053,1430.83,0.00,9.9/min
+Segunda via de CRNM,10,2877,1844,4002,952.58,0.00,9.6/min
+Substituicao de CRNM,10,3212,1975,6007,1528.57,0.00,9.5/min
+Solicitar Alteracao de Endereco,10,3285,1973,7988,2187.93,0.00,9.5/min
+Recadastramento Extemporaneo,10,3996,1869,6988,1847.57,0.00,9.5/min
+Debug Sampler,10,0,0,1,0.30,0.00,9.9/min
+TOTAL,80,2778,0,7988,1756.20,0.00,1.1/sec
