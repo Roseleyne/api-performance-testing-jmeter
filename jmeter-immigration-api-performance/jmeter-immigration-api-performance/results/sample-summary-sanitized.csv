@@ -1,9 +1,0 @@
-label,samples,average_ms,min_ms,max_ms,error_percent,throughput
-User Registration,10,1200,800,1800,0.00,0.15/sec
-Permit Extension,10,980,700,1500,0.00,0.15/sec
-Residence Authorization,10,1100,850,1650,0.00,0.15/sec
-Document Reissue,10,900,650,1300,0.00,0.15/sec
-Document Replacement,10,1250,900,1900,0.00,0.15/sec
-Address Update,10,1450,950,2300,0.00,0.15/sec
-User Revalidation,10,1000,750,1600,0.00,0.15/sec
-TOTAL,70,1125,650,2300,0.00,1.05/sec

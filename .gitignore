@@ -1,16 +1,17 @@
-# JMeter raw outputs
+# JMeter raw outputs (excecao: resultado sanitizado publicado)
 *.jtl
+!results/results.jtl
 *.log
 *.hprof
 
-# Generated reports
-/dashboard/
-/reports/
+# Relatorios publicados sao versionados (results/dashboard, *.csv em results/)
+# Saidas locais temporarias:
+/tmp/
+jmeter.log
+report.log
 
 # Sensitive or local files
 *.har
-*.csv
-!.gitkeep
 .env
 *.pem
 *.key

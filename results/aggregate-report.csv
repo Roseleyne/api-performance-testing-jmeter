@@ -1,0 +1,9 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+01 - Registro,50,895,919,1158,1260,1685,264,1685,0.00%,3.20/sec,0.85,1.86
+02 - Alteracao de Prazo,50,556,542,757,847,932,252,932,0.00%,3.22/sec,0.86,1.91
+03 - Autorizacao de Residencia,50,631,588,1015,1237,1349,212,1349,0.00%,3.14/sec,0.84,1.91
+04 - Segunda via de CRNM,50,629,605,977,1066,1105,192,1105,0.00%,3.06/sec,0.81,1.82
+05 - Substituicao de CRNM,50,651,594,1019,1075,1163,202,1163,0.00%,2.97/sec,0.79,1.77
+06 - Solicitar Alteracao de Endereco,50,686,714,1220,1285,1465,1,1465,4.00%,2.91/sec,0.77,1.74
+07 - Recadastramento Extemporaneo,50,849,874,1242,1300,1355,262,1355,0.00%,2.99/sec,0.80,1.85
+TOTAL,350,700,689,1125,1228,1355,1,1685,0.57%,17.15/sec,4.57,10.26

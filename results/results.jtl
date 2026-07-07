@@ -1,0 +1,351 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1783464324021,822,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,592,3,3,http://localhost:8099/api/v1/registro,818,0,28
+1783464324845,359,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,606,4,4,http://localhost:8099/api/v1/alteracao-prazo,359,0,1
+1783464324694,629,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,592,4,4,http://localhost:8099/api/v1/registro,629,0,0
+1783464324301,1177,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,592,4,4,http://localhost:8099/api/v1/registro,1177,0,0
+1783464325205,319,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,620,5,5,http://localhost:8099/api/v1/autorizacao-residencia,318,0,1
+1783464325090,704,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,592,5,5,http://localhost:8099/api/v1/registro,704,0,1
+1783464325478,500,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,606,6,6,http://localhost:8099/api/v1/alteracao-prazo,500,0,1
+1783464325524,509,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,608,6,6,http://localhost:8099/api/v1/segunda-via-crnm,509,0,1
+1783464325325,747,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,606,6,6,http://localhost:8099/api/v1/alteracao-prazo,747,0,0
+1783464325490,597,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,592,6,6,http://localhost:8099/api/v1/registro,597,0,1
+1783464326073,212,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,620,7,7,http://localhost:8099/api/v1/autorizacao-residencia,212,0,0
+1783464325794,614,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,606,7,7,http://localhost:8099/api/v1/alteracao-prazo,614,0,1
+1783464326034,383,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,610,7,7,http://localhost:8099/api/v1/substituicao-crnm,383,0,0
+1783464325884,583,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,592,7,7,http://localhost:8099/api/v1/registro,583,0,2
+1783464326286,192,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,608,7,7,http://localhost:8099/api/v1/segunda-via-crnm,192,0,0
+1783464326088,493,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,606,7,7,http://localhost:8099/api/v1/alteracao-prazo,493,0,0
+1783464326409,380,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,620,8,8,http://localhost:8099/api/v1/autorizacao-residencia,380,0,0
+1783464325979,853,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,620,8,8,http://localhost:8099/api/v1/autorizacao-residencia,852,0,1
+1783464326582,351,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,620,8,8,http://localhost:8099/api/v1/autorizacao-residencia,351,0,0
+1783464326468,671,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,606,9,9,http://localhost:8099/api/v1/alteracao-prazo,671,0,0
+1783464326683,766,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,592,9,9,http://localhost:8099/api/v1/registro,766,0,0
+1783464326284,1198,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,592,10,10,http://localhost:8099/api/v1/registro,1198,0,0
+1783464326790,718,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,608,10,10,http://localhost:8099/api/v1/segunda-via-crnm,718,0,0
+1783464326479,1041,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,610,10,10,http://localhost:8099/api/v1/substituicao-crnm,1041,0,0
+1783464326933,630,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,608,10,10,http://localhost:8099/api/v1/segunda-via-crnm,630,0,1
+1783464327140,438,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,620,10,10,http://localhost:8099/api/v1/autorizacao-residencia,437,0,0
+1783464326832,757,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,608,10,10,http://localhost:8099/api/v1/segunda-via-crnm,757,0,1
+1783464327084,525,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,592,10,10,http://localhost:8099/api/v1/registro,525,0,1
+1783464326417,1266,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,612,10,10,http://localhost:8099/api/v1/alteracao-endereco,1266,0,1
+1783464327509,422,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,610,11,11,http://localhost:8099/api/v1/substituicao-crnm,422,0,1
+1783464327450,619,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,606,11,11,http://localhost:8099/api/v1/alteracao-prazo,619,0,0
+1783464327610,565,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,606,11,11,http://localhost:8099/api/v1/alteracao-prazo,564,0,0
+1783464327578,662,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,608,11,11,http://localhost:8099/api/v1/segunda-via-crnm,662,0,1
+1783464327482,794,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,606,11,11,http://localhost:8099/api/v1/alteracao-prazo,794,0,1
+1783464327520,789,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,612,12,12,http://localhost:8099/api/v1/alteracao-endereco,789,0,1
+1783464327563,827,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,610,12,12,http://localhost:8099/api/v1/substituicao-crnm,827,0,1
+1783464327480,944,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,594,12,12,http://localhost:8099/api/v1/registro,943,0,1
+1783464327589,844,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,610,12,12,http://localhost:8099/api/v1/substituicao-crnm,844,0,1
+1783464328434,2,06 - Solicitar Alteracao de Endereco,503,Service Unavailable,Usuarios Virtuais - Servicos de Imigracao 1-2,text,false,Esperado codigo HTTP 2xx,226,612,12,12,http://localhost:8099/api/v1/alteracao-endereco,2,0,1
+1783464328438,263,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,632,13,13,http://localhost:8099/api/v1/recadastramento-extemporaneo,262,0,0
+1783464328175,588,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,620,13,13,http://localhost:8099/api/v1/autorizacao-residencia,588,0,1
+1783464328277,494,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,620,13,13,http://localhost:8099/api/v1/autorizacao-residencia,494,0,0
+1783464327931,978,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,612,13,13,http://localhost:8099/api/v1/alteracao-endereco,978,0,1
+1783464327882,1030,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,594,13,13,http://localhost:8099/api/v1/registro,1030,0,1
+1783464328424,529,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,608,13,13,http://localhost:8099/api/v1/alteracao-prazo,529,0,1
+1783464327684,1305,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,632,13,13,http://localhost:8099/api/v1/recadastramento-extemporaneo,1305,0,1
+1783464328070,1081,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,620,14,14,http://localhost:8099/api/v1/autorizacao-residencia,1081,0,1
+1783464328280,875,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,594,14,14,http://localhost:8099/api/v1/registro,875,0,1
+1783464328310,921,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,632,14,14,http://localhost:8099/api/v1/recadastramento-extemporaneo,920,0,1
+1783464328241,1075,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,610,14,14,http://localhost:8099/api/v1/substituicao-crnm,1075,0,0
+1783464328913,451,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,608,14,14,http://localhost:8099/api/v1/alteracao-prazo,451,0,0
+1783464328771,666,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,608,14,14,http://localhost:8099/api/v1/segunda-via-crnm,666,0,1
+1783464328764,676,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,608,14,14,http://localhost:8099/api/v1/segunda-via-crnm,676,0,1
+1783464328391,1156,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,612,15,15,http://localhost:8099/api/v1/alteracao-endereco,1155,0,0
+1783464328681,1000,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,594,15,15,http://localhost:8099/api/v1/registro,999,0,1
+1783464328701,1091,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,592,15,15,http://localhost:8099/api/v1/registro,1091,0,1
+1783464329442,381,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,610,15,15,http://localhost:8099/api/v1/substituicao-crnm,381,0,0
+1783464329157,742,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,608,16,16,http://localhost:8099/api/v1/alteracao-prazo,742,0,0
+1783464328991,919,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,592,16,16,http://localhost:8099/api/v1/registro,919,0,1
+1783464329153,777,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,608,16,16,http://localhost:8099/api/v1/segunda-via-crnm,776,0,0
+1783464328953,995,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,622,16,16,http://localhost:8099/api/v1/autorizacao-residencia,994,0,1
+1783464328910,1069,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,632,16,16,http://localhost:8099/api/v1/recadastramento-extemporaneo,1069,0,0
+1783464329366,627,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,622,16,16,http://localhost:8099/api/v1/autorizacao-residencia,627,0,0
+1783464329232,771,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,592,16,16,http://localhost:8099/api/v1/registro,771,0,1
+1783464329949,244,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,610,16,16,http://localhost:8099/api/v1/segunda-via-crnm,244,0,1
+1783464329793,528,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,606,17,17,http://localhost:8099/api/v1/alteracao-prazo,528,0,1
+1783464329682,666,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,608,17,17,http://localhost:8099/api/v1/alteracao-prazo,666,0,1
+1783464329930,435,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,610,17,17,http://localhost:8099/api/v1/substituicao-crnm,435,0,0
+1783464329080,1291,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,594,17,17,http://localhost:8099/api/v1/registro,1291,0,1
+1783464330006,384,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,606,17,17,http://localhost:8099/api/v1/alteracao-prazo,384,0,0
+1783464329439,1006,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,610,17,17,http://localhost:8099/api/v1/substituicao-crnm,1006,0,0
+1783464329318,1146,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,612,17,17,http://localhost:8099/api/v1/alteracao-endereco,1146,0,0
+1783464329911,730,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,606,17,17,http://localhost:8099/api/v1/alteracao-prazo,730,0,0
+1783464330322,335,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,620,17,17,http://localhost:8099/api/v1/autorizacao-residencia,335,0,0
+1783464329824,845,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,612,17,17,http://localhost:8099/api/v1/alteracao-endereco,845,0,0
+1783464329548,1130,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,632,17,17,http://localhost:8099/api/v1/recadastramento-extemporaneo,1130,0,1
+1783464330464,265,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,632,18,18,http://localhost:8099/api/v1/recadastramento-extemporaneo,265,0,1
+1783464329486,1260,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,594,18,18,http://localhost:8099/api/v1/registro,1260,0,1
+1783464329900,874,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,622,18,18,http://localhost:8099/api/v1/autorizacao-residencia,874,0,0
+1783464330366,486,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,612,18,18,http://localhost:8099/api/v1/alteracao-endereco,486,0,0
+1783464330390,467,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,620,18,18,http://localhost:8099/api/v1/autorizacao-residencia,467,0,1
+1783464329885,1010,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,594,18,18,http://localhost:8099/api/v1/registro,1010,0,1
+1783464330372,549,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,608,18,18,http://localhost:8099/api/v1/alteracao-prazo,548,0,0
+1783464329981,975,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,592,18,18,http://localhost:8099/api/v1/registro,974,0,0
+1783464330657,301,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,608,18,18,http://localhost:8099/api/v1/segunda-via-crnm,301,0,1
+1783464330194,900,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,612,19,19,http://localhost:8099/api/v1/substituicao-crnm,900,0,0
+1783464329994,1105,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,610,19,19,http://localhost:8099/api/v1/segunda-via-crnm,1105,0,0
+1783464330896,252,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,608,19,19,http://localhost:8099/api/v1/alteracao-prazo,251,0,0
+1783464330683,494,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,594,19,19,http://localhost:8099/api/v1/registro,494,0,0
+1783464330747,525,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,608,19,19,http://localhost:8099/api/v1/alteracao-prazo,525,0,0
+1783464330284,1014,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,594,19,19,http://localhost:8099/api/v1/registro,1014,0,1
+1783464330956,409,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,606,19,19,http://localhost:8099/api/v1/alteracao-prazo,409,0,0
+1783464331094,306,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,614,19,19,http://localhost:8099/api/v1/alteracao-endereco,306,0,1
+1783464331100,324,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,612,19,19,http://localhost:8099/api/v1/substituicao-crnm,324,0,0
+1783464330641,786,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,620,19,19,http://localhost:8099/api/v1/autorizacao-residencia,786,0,1
+1783464330958,474,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,610,19,19,http://localhost:8099/api/v1/substituicao-crnm,474,0,0
+1783464331273,212,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,622,20,20,http://localhost:8099/api/v1/autorizacao-residencia,212,0,0
+1783464330852,693,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,632,20,20,http://localhost:8099/api/v1/recadastramento-extemporaneo,693,0,1
+1783464330670,894,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,632,20,20,http://localhost:8099/api/v1/recadastramento-extemporaneo,894,0,0
+1783464330775,840,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,610,20,20,http://localhost:8099/api/v1/segunda-via-crnm,839,0,0
+1783464331433,194,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,612,20,20,http://localhost:8099/api/v1/alteracao-endereco,194,0,3
+1783464330729,900,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,592,20,20,http://localhost:8099/api/v1/registro,900,0,1
+1783464331424,216,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,614,20,20,http://localhost:8099/api/v1/alteracao-endereco,216,0,1
+1783464330857,789,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,608,20,20,http://localhost:8099/api/v1/segunda-via-crnm,789,0,1
+1783464330445,1239,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,612,20,20,http://localhost:8099/api/v1/alteracao-endereco,1238,0,1
+1783464330348,1349,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,622,20,20,http://localhost:8099/api/v1/autorizacao-residencia,1349,0,1
+1783464331365,338,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,620,20,20,http://localhost:8099/api/v1/autorizacao-residencia,338,0,1
+1783464331299,449,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,608,20,20,http://localhost:8099/api/v1/alteracao-prazo,449,0,1
+1783464330921,846,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,622,20,20,http://localhost:8099/api/v1/autorizacao-residencia,846,0,0
+1783464330678,1142,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,592,20,20,http://localhost:8099/api/v1/registro,1142,0,1
+1783464331178,768,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,608,21,21,http://localhost:8099/api/v1/alteracao-prazo,768,0,0
+1783464331615,483,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,612,21,21,http://localhost:8099/api/v1/substituicao-crnm,483,0,1
+1783464332099,1,06 - Solicitar Alteracao de Endereco,503,Service Unavailable,Usuarios Virtuais - Servicos de Imigracao 1-12,text,false,Esperado codigo HTTP 2xx,226,614,21,21,http://localhost:8099/api/v1/alteracao-endereco,1,0,0
+1783464331628,521,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-2,text,true,,273,632,21,21,http://localhost:8099/api/v1/recadastramento-extemporaneo,521,0,1
+1783464331629,548,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,606,20,20,http://localhost:8099/api/v1/alteracao-prazo,548,0,0
+1783464331428,758,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,608,20,20,http://localhost:8099/api/v1/segunda-via-crnm,758,0,0
+1783464331698,500,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,610,20,20,http://localhost:8099/api/v1/segunda-via-crnm,500,0,0
+1783464331083,1136,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,594,20,20,http://localhost:8099/api/v1/registro,1136,0,1
+1783464331486,754,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,610,20,20,http://localhost:8099/api/v1/segunda-via-crnm,753,0,0
+1783464331148,1125,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,622,20,20,http://localhost:8099/api/v1/autorizacao-residencia,1125,0,0
+1783464331768,509,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,610,20,20,http://localhost:8099/api/v1/segunda-via-crnm,508,0,0
+1783464331821,542,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,606,21,21,http://localhost:8099/api/v1/alteracao-prazo,541,0,0
+1783464331486,924,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,594,21,21,http://localhost:8099/api/v1/registro,923,0,1
+1783464331684,738,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,632,21,21,http://localhost:8099/api/v1/recadastramento-extemporaneo,738,0,1
+1783464331647,846,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,610,21,21,http://localhost:8099/api/v1/substituicao-crnm,846,0,0
+1783464331885,610,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,594,21,21,http://localhost:8099/api/v1/registro,610,0,1
+1783464331565,968,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,592,21,21,http://localhost:8099/api/v1/registro,968,0,0
+1783464332178,385,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,620,21,21,http://localhost:8099/api/v1/autorizacao-residencia,385,0,0
+1783464331401,1175,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,634,21,21,http://localhost:8099/api/v1/recadastramento-extemporaneo,1175,0,0
+1783464332187,393,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,610,21,21,http://localhost:8099/api/v1/substituicao-crnm,393,0,0
+1783464331704,903,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,608,21,21,http://localhost:8099/api/v1/segunda-via-crnm,903,0,0
+1783464332363,244,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,620,21,21,http://localhost:8099/api/v1/autorizacao-residencia,244,0,0
+1783464332198,502,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,612,22,22,http://localhost:8099/api/v1/substituicao-crnm,501,0,1
+1783464331545,1154,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,592,22,22,http://localhost:8099/api/v1/registro,1154,0,1
+1783464332101,650,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,634,22,22,http://localhost:8099/api/v1/recadastramento-extemporaneo,650,0,0
+1783464332273,507,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,610,22,22,http://localhost:8099/api/v1/segunda-via-crnm,507,0,1
+1783464332220,572,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,608,22,22,http://localhost:8099/api/v1/alteracao-prazo,571,0,0
+1783464332494,328,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,612,22,22,http://localhost:8099/api/v1/alteracao-endereco,327,0,0
+1783464332496,347,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,608,22,22,http://localhost:8099/api/v1/alteracao-prazo,347,0,0
+1783464332534,339,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,606,22,22,http://localhost:8099/api/v1/alteracao-prazo,339,0,1
+1783464331946,928,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,622,22,22,http://localhost:8099/api/v1/autorizacao-residencia,928,0,1
+1783464331640,1268,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,634,22,22,http://localhost:8099/api/v1/recadastramento-extemporaneo,1268,0,1
+1783464331749,1237,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,622,22,22,http://localhost:8099/api/v1/autorizacao-residencia,1237,0,1
+1783464332607,389,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,610,22,22,http://localhost:8099/api/v1/substituicao-crnm,389,0,1
+1783464332822,263,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-3,text,true,,273,632,23,23,http://localhost:8099/api/v1/recadastramento-extemporaneo,263,0,0
+1783464332581,547,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,612,22,22,http://localhost:8099/api/v1/alteracao-endereco,546,0,0
+1783464332277,877,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,612,22,22,http://localhost:8099/api/v1/substituicao-crnm,877,0,1
+1783464332284,872,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,594,22,22,http://localhost:8099/api/v1/registro,872,0,0
+1783464332700,458,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,606,22,22,http://localhost:8099/api/v1/alteracao-prazo,458,0,0
+1783464332908,264,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,594,22,22,http://localhost:8099/api/v1/registro,264,0,1
+1783464332996,193,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,612,22,22,http://localhost:8099/api/v1/alteracao-endereco,192,0,1
+1783464332843,350,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,622,22,22,http://localhost:8099/api/v1/autorizacao-residencia,350,0,1
+1783464332752,448,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,594,22,22,http://localhost:8099/api/v1/registro,448,0,0
+1783464332564,639,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,608,22,22,http://localhost:8099/api/v1/segunda-via-crnm,639,0,0
+1783464332607,605,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,608,22,22,http://localhost:8099/api/v1/segunda-via-crnm,605,0,1
+1783464332410,847,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,608,22,22,http://localhost:8099/api/v1/alteracao-prazo,847,0,0
+1783464332240,1019,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,612,22,22,http://localhost:8099/api/v1/substituicao-crnm,1019,0,1
+1783464332683,599,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,594,22,22,http://localhost:8099/api/v1/registro,599,0,1
+1783464332576,720,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,594,22,22,http://localhost:8099/api/v1/registro,720,0,1
+1783464332780,528,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,612,22,22,http://localhost:8099/api/v1/substituicao-crnm,527,0,1
+1783464332423,922,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,592,22,22,http://localhost:8099/api/v1/registro,922,0,0
+1783464332700,738,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,614,22,22,http://localhost:8099/api/v1/alteracao-endereco,738,0,0
+1783464333173,266,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,608,22,22,http://localhost:8099/api/v1/alteracao-prazo,266,0,0
+1783464333259,218,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,614,22,22,http://localhost:8099/api/v1/alteracao-endereco,218,0,1
+1783464333308,193,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,614,23,23,http://localhost:8099/api/v1/alteracao-endereco,193,0,0
+1783464333154,425,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,614,23,23,http://localhost:8099/api/v1/alteracao-endereco,425,0,1
+1783464333283,318,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,608,23,23,http://localhost:8099/api/v1/alteracao-prazo,318,0,0
+1783464333194,415,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,610,23,23,http://localhost:8099/api/v1/segunda-via-crnm,415,0,0
+1783464332874,782,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,620,23,23,http://localhost:8099/api/v1/autorizacao-residencia,782,0,0
+1783464332874,828,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,610,23,23,http://localhost:8099/api/v1/segunda-via-crnm,828,0,1
+1783464333203,502,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,610,23,23,http://localhost:8099/api/v1/substituicao-crnm,502,0,1
+1783464333257,495,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,622,23,23,http://localhost:8099/api/v1/autorizacao-residencia,495,0,1
+1783464332792,1015,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,622,23,23,http://localhost:8099/api/v1/autorizacao-residencia,1015,0,0
+1783464333158,662,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,620,23,23,http://localhost:8099/api/v1/autorizacao-residencia,662,0,1
+1783464333439,393,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,622,23,23,http://localhost:8099/api/v1/autorizacao-residencia,393,0,0
+1783464333201,689,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,608,23,23,http://localhost:8099/api/v1/alteracao-prazo,689,0,0
+1783464333156,757,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,608,23,23,http://localhost:8099/api/v1/alteracao-prazo,757,0,1
+1783464332986,977,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,610,23,23,http://localhost:8099/api/v1/segunda-via-crnm,977,0,1
+1783464333213,793,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,610,23,23,http://localhost:8099/api/v1/substituicao-crnm,793,0,0
+1783464333296,738,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,608,23,23,http://localhost:8099/api/v1/alteracao-prazo,738,0,1
+1783464333345,705,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,606,23,23,http://localhost:8099/api/v1/alteracao-prazo,705,0,1
+1783464333703,367,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,612,23,23,http://localhost:8099/api/v1/substituicao-crnm,366,0,0
+1783464333501,592,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,634,23,23,http://localhost:8099/api/v1/recadastramento-extemporaneo,592,0,1
+1783464333891,231,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,622,23,23,http://localhost:8099/api/v1/autorizacao-residencia,231,0,0
+1783464333083,1058,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,594,23,23,http://localhost:8099/api/v1/registro,1058,0,0
+1783464333439,787,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,634,23,23,http://localhost:8099/api/v1/recadastramento-extemporaneo,787,0,0
+1783464333609,678,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,612,23,23,http://localhost:8099/api/v1/substituicao-crnm,678,0,1
+1783464333128,1184,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-1,text,true,,273,632,23,23,http://localhost:8099/api/v1/recadastramento-extemporaneo,1184,0,0
+1783464333477,874,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,634,22,22,http://localhost:8099/api/v1/recadastramento-extemporaneo,874,0,1
+1783464334070,288,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,614,22,22,http://localhost:8099/api/v1/alteracao-endereco,288,0,0
+1783464333753,608,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,610,22,22,http://localhost:8099/api/v1/segunda-via-crnm,608,0,1
+1783464333189,1184,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-4,text,true,,273,632,22,22,http://localhost:8099/api/v1/recadastramento-extemporaneo,1184,0,0
+1783464333832,542,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,610,21,21,http://localhost:8099/api/v1/segunda-via-crnm,542,0,1
+1783464334141,261,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,608,21,21,http://localhost:8099/api/v1/alteracao-prazo,261,0,1
+1783464333963,510,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,612,21,21,http://localhost:8099/api/v1/substituicao-crnm,510,0,1
+1783464333479,1011,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,594,21,21,http://localhost:8099/api/v1/registro,1011,0,1
+1783464333821,700,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,608,21,21,http://localhost:8099/api/v1/segunda-via-crnm,700,0,0
+1783464334287,262,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,614,21,21,http://localhost:8099/api/v1/alteracao-endereco,262,0,1
+1783464334473,203,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,614,21,21,http://localhost:8099/api/v1/alteracao-endereco,203,0,0
+1783464333657,1034,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,608,21,21,http://localhost:8099/api/v1/segunda-via-crnm,1034,0,0
+1783464334034,689,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,622,21,21,http://localhost:8099/api/v1/autorizacao-residencia,688,0,1
+1783464334094,661,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,594,21,21,http://localhost:8099/api/v1/registro,661,0,0
+1783464333705,1058,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,612,21,21,http://localhost:8099/api/v1/alteracao-endereco,1058,0,1
+1783464334402,395,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,622,21,21,http://localhost:8099/api/v1/autorizacao-residencia,394,0,0
+1783464333808,1066,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,610,21,21,http://localhost:8099/api/v1/segunda-via-crnm,1066,0,1
+1783464333914,964,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,622,21,21,http://localhost:8099/api/v1/autorizacao-residencia,964,0,0
+1783464334006,891,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,612,21,21,http://localhost:8099/api/v1/alteracao-endereco,891,0,1
+1783464333602,1298,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,622,21,21,http://localhost:8099/api/v1/autorizacao-residencia,1298,0,0
+1783464334122,809,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,610,21,21,http://localhost:8099/api/v1/segunda-via-crnm,809,0,0
+1783464333579,1355,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,634,21,21,http://localhost:8099/api/v1/recadastramento-extemporaneo,1355,0,0
+1783464334676,262,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,634,21,21,http://localhost:8099/api/v1/recadastramento-extemporaneo,262,0,1
+1783464334050,925,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,620,21,21,http://localhost:8099/api/v1/autorizacao-residencia,925,0,0
+1783464334352,693,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,594,21,21,http://localhost:8099/api/v1/registro,693,0,1
+1783464334755,349,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,608,21,21,http://localhost:8099/api/v1/alteracao-prazo,349,0,1
+1783464334521,610,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,610,21,21,http://localhost:8099/api/v1/substituicao-crnm,610,0,1
+1783464334549,596,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,634,21,21,http://localhost:8099/api/v1/recadastramento-extemporaneo,596,0,1
+1783464334491,674,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,608,21,21,http://localhost:8099/api/v1/alteracao-prazo,674,0,0
+1783464334797,439,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,610,21,21,http://localhost:8099/api/v1/segunda-via-crnm,439,0,1
+1783464334361,883,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,612,21,21,http://localhost:8099/api/v1/substituicao-crnm,883,0,1
+1783464334227,1095,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,594,21,21,http://localhost:8099/api/v1/registro,1095,0,0
+1783464334359,1048,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,634,21,21,http://localhost:8099/api/v1/recadastramento-extemporaneo,1048,0,0
+1783464334931,524,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,612,21,21,http://localhost:8099/api/v1/substituicao-crnm,524,0,1
+1783464334879,592,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,610,21,21,http://localhost:8099/api/v1/segunda-via-crnm,592,0,0
+1783464334900,623,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,610,21,21,http://localhost:8099/api/v1/segunda-via-crnm,623,0,0
+1783464334691,836,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,610,21,21,http://localhost:8099/api/v1/substituicao-crnm,836,0,0
+1783464334374,1163,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,612,21,21,http://localhost:8099/api/v1/substituicao-crnm,1163,0,1
+1783464335046,513,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,608,21,21,http://localhost:8099/api/v1/alteracao-prazo,513,0,0
+1783464334875,687,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,612,21,21,http://localhost:8099/api/v1/substituicao-crnm,687,0,0
+1783464335146,471,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,594,21,21,http://localhost:8099/api/v1/registro,471,0,0
+1783464335132,528,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,612,21,21,http://localhost:8099/api/v1/alteracao-endereco,528,0,1
+1783464334723,1007,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,610,21,21,http://localhost:8099/api/v1/segunda-via-crnm,1007,0,1
+1783464334898,846,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-5,text,true,,273,632,21,21,http://localhost:8099/api/v1/recadastramento-extemporaneo,845,0,0
+1783464335237,509,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,612,20,20,http://localhost:8099/api/v1/substituicao-crnm,509,0,1
+1783464335523,277,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,612,20,20,http://localhost:8099/api/v1/substituicao-crnm,277,0,1
+1783464335322,479,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,608,20,20,http://localhost:8099/api/v1/alteracao-prazo,479,0,1
+1783464334939,878,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,594,20,20,http://localhost:8099/api/v1/registro,877,0,0
+1783464335105,727,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,622,20,20,http://localhost:8099/api/v1/autorizacao-residencia,727,0,0
+1783464335617,297,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,608,20,20,http://localhost:8099/api/v1/alteracao-prazo,297,0,1
+1783464335165,760,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,622,20,20,http://localhost:8099/api/v1/autorizacao-residencia,760,0,1
+1783464334763,1223,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-6,text,true,,273,632,20,20,http://localhost:8099/api/v1/recadastramento-extemporaneo,1223,0,0
+1783464335537,494,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,614,19,19,http://localhost:8099/api/v1/alteracao-endereco,493,0,1
+1783464334976,1079,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,608,19,19,http://localhost:8099/api/v1/segunda-via-crnm,1079,0,0
+1783464335528,551,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,612,19,19,http://localhost:8099/api/v1/alteracao-endereco,551,0,0
+1783464335559,617,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,622,19,19,http://localhost:8099/api/v1/autorizacao-residencia,617,0,1
+1783464335472,791,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,612,19,19,http://localhost:8099/api/v1/substituicao-crnm,791,0,0
+1783464335407,871,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,594,19,19,http://localhost:8099/api/v1/registro,871,0,1
+1783464335731,551,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,612,19,19,http://localhost:8099/api/v1/substituicao-crnm,551,0,0
+1783464335800,486,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,614,19,19,http://localhost:8099/api/v1/alteracao-endereco,486,0,1
+1783464335832,474,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,610,19,19,http://localhost:8099/api/v1/segunda-via-crnm,474,0,1
+1783464335926,458,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,610,19,19,http://localhost:8099/api/v1/segunda-via-crnm,458,0,0
+1783464335244,1220,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,614,19,19,http://localhost:8099/api/v1/alteracao-endereco,1220,0,1
+1783464335747,766,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,614,19,19,http://localhost:8099/api/v1/alteracao-endereco,766,0,0
+1783464335660,904,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-8,text,true,,273,632,19,19,http://localhost:8099/api/v1/recadastramento-extemporaneo,904,0,1
+1783464336278,288,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,608,18,18,http://localhost:8099/api/v1/alteracao-prazo,288,0,0
+1783464335801,767,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,622,18,18,http://localhost:8099/api/v1/autorizacao-residencia,767,0,0
+1783464336031,570,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-11,text,true,,273,634,18,18,http://localhost:8099/api/v1/recadastramento-extemporaneo,570,0,0
+1783464334935,1685,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,594,17,17,http://localhost:8099/api/v1/registro,1685,0,0
+1783464335455,1179,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,614,17,17,http://localhost:8099/api/v1/alteracao-endereco,1178,0,0
+1783464335817,850,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,608,17,17,http://localhost:8099/api/v1/alteracao-prazo,849,0,1
+1783464336177,548,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,610,17,17,http://localhost:8099/api/v1/segunda-via-crnm,547,0,0
+1783464336567,212,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,622,17,17,http://localhost:8099/api/v1/autorizacao-residencia,212,0,0
+1783464335915,867,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,622,17,17,http://localhost:8099/api/v1/autorizacao-residencia,867,0,0
+1783464336385,447,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,612,17,17,http://localhost:8099/api/v1/substituicao-crnm,447,0,1
+1783464336079,834,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-9,text,true,,273,632,17,17,http://localhost:8099/api/v1/recadastramento-extemporaneo,834,0,1
+1783464335563,1355,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,614,16,16,http://localhost:8099/api/v1/alteracao-endereco,1355,0,0
+1783464336307,635,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,612,16,16,http://localhost:8099/api/v1/substituicao-crnm,635,0,0
+1783464336286,695,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,634,16,16,http://localhost:8099/api/v1/recadastramento-extemporaneo,694,0,1
+1783464336282,766,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,614,16,16,http://localhost:8099/api/v1/alteracao-endereco,766,0,1
+1783464336569,490,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,610,16,16,http://localhost:8099/api/v1/segunda-via-crnm,490,0,0
+1783464336465,615,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,634,16,16,http://localhost:8099/api/v1/recadastramento-extemporaneo,615,0,0
+1783464336056,1052,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,610,16,16,http://localhost:8099/api/v1/substituicao-crnm,1052,0,0
+1783464336620,592,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,608,16,16,http://localhost:8099/api/v1/alteracao-prazo,592,0,1
+1783464336919,308,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,634,16,16,http://localhost:8099/api/v1/recadastramento-extemporaneo,308,0,0
+1783464336780,490,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,610,16,16,http://localhost:8099/api/v1/segunda-via-crnm,490,0,0
+1783464336634,660,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-12,text,true,,273,634,16,16,http://localhost:8099/api/v1/recadastramento-extemporaneo,660,0,1
+1783464336725,586,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,612,15,15,http://localhost:8099/api/v1/substituicao-crnm,586,0,0
+1783464336783,602,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,610,15,15,http://localhost:8099/api/v1/segunda-via-crnm,602,0,0
+1783464336833,622,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,614,15,15,http://localhost:8099/api/v1/alteracao-endereco,622,0,0
+1783464336667,836,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,622,15,15,http://localhost:8099/api/v1/autorizacao-residencia,836,0,1
+1783464336943,581,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,614,15,15,http://localhost:8099/api/v1/alteracao-endereco,580,0,0
+1783464337059,493,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,612,15,15,http://localhost:8099/api/v1/substituicao-crnm,493,0,1
+1783464337212,361,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,622,15,15,http://localhost:8099/api/v1/autorizacao-residencia,361,0,1
+1783464336514,1135,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,634,15,15,http://localhost:8099/api/v1/recadastramento-extemporaneo,1135,0,0
+1783464336264,1465,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,614,15,15,http://localhost:8099/api/v1/alteracao-endereco,1465,0,0
+1783464337573,192,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,610,15,15,http://localhost:8099/api/v1/segunda-via-crnm,192,0,1
+1783464337504,319,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,610,15,15,http://localhost:8099/api/v1/segunda-via-crnm,319,0,0
+1783464337109,714,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,612,15,15,http://localhost:8099/api/v1/alteracao-endereco,714,0,0
+1783464337552,329,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,614,15,15,http://localhost:8099/api/v1/alteracao-endereco,329,0,1
+1783464337048,992,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-10,text,true,,273,634,15,15,http://localhost:8099/api/v1/recadastramento-extemporaneo,992,0,1
+1783464337385,707,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,612,14,14,http://localhost:8099/api/v1/substituicao-crnm,707,0,1
+1783464337270,836,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,612,14,14,http://localhost:8099/api/v1/substituicao-crnm,836,0,1
+1783464336981,1158,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,594,14,14,http://localhost:8099/api/v1/registro,1158,0,1
+1783464337312,844,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,614,14,14,http://localhost:8099/api/v1/alteracao-endereco,844,0,0
+1783464337081,1077,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,594,14,14,http://localhost:8099/api/v1/registro,1077,0,0
+1783464337227,987,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,594,14,14,http://localhost:8099/api/v1/registro,987,0,1
+1783464337823,400,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,612,14,14,http://localhost:8099/api/v1/substituicao-crnm,400,0,0
+1783464337524,782,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-16,text,true,,273,634,14,14,http://localhost:8099/api/v1/recadastramento-extemporaneo,782,0,0
+1783464337456,1002,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,634,13,13,http://localhost:8099/api/v1/recadastramento-extemporaneo,1001,0,0
+1783464337650,916,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,594,13,13,http://localhost:8099/api/v1/registro,916,0,0
+1783464337766,840,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,612,13,13,http://localhost:8099/api/v1/substituicao-crnm,840,0,0
+1783464337729,901,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,634,13,13,http://localhost:8099/api/v1/recadastramento-extemporaneo,901,0,1
+1783464338159,489,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,608,13,13,http://localhost:8099/api/v1/alteracao-prazo,489,0,0
+1783464338214,498,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,608,13,13,http://localhost:8099/api/v1/alteracao-prazo,498,0,1
+1783464338106,662,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,614,13,13,http://localhost:8099/api/v1/alteracao-endereco,662,0,1
+1783464338139,697,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,608,13,13,http://localhost:8099/api/v1/alteracao-prazo,696,0,1
+1783464338092,760,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,614,13,13,http://localhost:8099/api/v1/alteracao-endereco,760,0,1
+1783464337881,977,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-13,text,true,,273,634,13,13,http://localhost:8099/api/v1/recadastramento-extemporaneo,977,0,1
+1783464338648,212,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,622,12,12,http://localhost:8099/api/v1/autorizacao-residencia,212,0,1
+1783464337823,1228,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-7,text,true,,273,632,12,12,http://localhost:8099/api/v1/recadastramento-extemporaneo,1228,0,0
+1783464338836,255,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,622,11,11,http://localhost:8099/api/v1/autorizacao-residencia,255,0,0
+1783464338712,558,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,622,11,11,http://localhost:8099/api/v1/autorizacao-residencia,558,0,1
+1783464338224,1050,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,614,11,11,http://localhost:8099/api/v1/alteracao-endereco,1050,0,0
+1783464338458,833,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,594,11,11,http://localhost:8099/api/v1/registro,833,0,0
+1783464338156,1300,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-15,text,true,,273,634,11,11,http://localhost:8099/api/v1/recadastramento-extemporaneo,1300,0,1
+1783464338861,601,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,610,10,10,http://localhost:8099/api/v1/segunda-via-crnm,601,0,0
+1783464338768,696,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-18,text,true,,273,634,10,10,http://localhost:8099/api/v1/recadastramento-extemporaneo,696,0,1
+1783464338607,863,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,614,9,9,http://localhost:8099/api/v1/alteracao-endereco,863,0,0
+1783464338567,932,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,608,9,9,http://localhost:8099/api/v1/alteracao-prazo,932,0,0
+1783464338853,699,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-21,text,true,,273,634,9,9,http://localhost:8099/api/v1/recadastramento-extemporaneo,699,0,0
+1783464339092,489,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,610,8,8,http://localhost:8099/api/v1/segunda-via-crnm,488,0,1
+1783464338630,1002,01 - Registro,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,594,8,8,http://localhost:8099/api/v1/registro,1002,0,1
+1783464339581,202,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,612,8,8,http://localhost:8099/api/v1/substituicao-crnm,202,0,1
+1783464339270,524,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,610,8,8,http://localhost:8099/api/v1/segunda-via-crnm,523,0,1
+1783464339291,684,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,608,8,8,http://localhost:8099/api/v1/alteracao-prazo,684,0,1
+1783464339499,529,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,622,8,8,http://localhost:8099/api/v1/autorizacao-residencia,529,0,1
+1783464339463,662,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,612,8,8,http://localhost:8099/api/v1/substituicao-crnm,662,0,0
+1783464339274,925,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-17,text,true,,273,634,8,8,http://localhost:8099/api/v1/recadastramento-extemporaneo,925,0,1
+1783464340028,272,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,610,7,7,http://localhost:8099/api/v1/segunda-via-crnm,272,0,1
+1783464339633,717,02 - Alteracao de Prazo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,608,7,7,http://localhost:8099/api/v1/alteracao-prazo,717,0,0
+1783464339975,391,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,622,7,7,http://localhost:8099/api/v1/autorizacao-residencia,391,0,1
+1783464339794,594,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,612,7,7,http://localhost:8099/api/v1/substituicao-crnm,594,0,0
+1783464340388,293,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,614,7,7,http://localhost:8099/api/v1/alteracao-endereco,293,0,0
+1783464339471,1242,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-14,text,true,,273,634,7,7,http://localhost:8099/api/v1/recadastramento-extemporaneo,1242,0,0
+1783464340366,486,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,610,6,6,http://localhost:8099/api/v1/segunda-via-crnm,485,0,1
+1783464340681,267,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-19,text,true,,273,634,6,6,http://localhost:8099/api/v1/recadastramento-extemporaneo,267,0,1
+1783464340852,202,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,612,5,5,http://localhost:8099/api/v1/substituicao-crnm,202,0,0
+1783464339784,1285,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,614,5,5,http://localhost:8099/api/v1/alteracao-endereco,1284,0,0
+1783464340125,968,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,614,5,5,http://localhost:8099/api/v1/alteracao-endereco,968,0,1
+1783464340350,779,03 - Autorizacao de Residencia,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,622,5,5,http://localhost:8099/api/v1/autorizacao-residencia,779,0,1
+1783464340300,1085,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,612,5,5,http://localhost:8099/api/v1/substituicao-crnm,1084,0,1
+1783464341069,698,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-23,text,true,,273,634,5,5,http://localhost:8099/api/v1/recadastramento-extemporaneo,698,0,0
+1783464341129,755,04 - Segunda via de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,610,4,4,http://localhost:8099/api/v1/segunda-via-crnm,755,0,1
+1783464341054,935,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,614,4,4,http://localhost:8099/api/v1/alteracao-endereco,935,0,1
+1783464341093,899,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-20,text,true,,273,634,4,4,http://localhost:8099/api/v1/recadastramento-extemporaneo,899,0,1
+1783464341385,873,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,614,3,3,http://localhost:8099/api/v1/alteracao-endereco,873,0,0
+1783464341885,972,05 - Substituicao de CRNM,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,612,3,3,http://localhost:8099/api/v1/substituicao-crnm,972,0,0
+1783464341989,973,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-25,text,true,,273,634,3,3,http://localhost:8099/api/v1/recadastramento-extemporaneo,973,0,1
+1783464342258,1259,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-24,text,true,,273,634,2,2,http://localhost:8099/api/v1/recadastramento-extemporaneo,1259,0,1
+1783464342857,762,06 - Solicitar Alteracao de Endereco,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,614,1,1,http://localhost:8099/api/v1/alteracao-endereco,762,0,0
+1783464343619,807,07 - Recadastramento Extemporaneo,201,Created,Usuarios Virtuais - Servicos de Imigracao 1-22,text,true,,273,634,1,1,http://localhost:8099/api/v1/recadastramento-extemporaneo,807,0,1
